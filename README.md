@@ -41,8 +41,17 @@ model files are at the [models](./models) folder
 |6|M3x6 Head Hex Socket| 10 | |
 |7|M3x4 Countersunk | 2 | |
 |8|M2.5x22  Countersunk | 4 | |
-|9|V-mount backplane| 1 | [see below](#v-mount-backplane) |
-|10|XH2.54 female cable 20cm | 1 | |
+|9|M3x4x3 Knurled nut | 10 | |
+|10|M2.5x3.8x3 Knurled nut | 4 | |
+|11|V-mount backplane| 1 | [see below](#v-mount-backplane) |
+|12|XH2.54 female cable 20cm | 1 | |
+|13|20x20x6mm 5v Fan | 1 | |
+|14|KCD11 Push Rocker Switch| 1 | |
+|15|18awg cable 1m | 2 | black and red, 20awg also ok | 
+|16| 25x25x5mm heat sink | 1 | |
+|17|GT-2.5 copper pipe| 2 | cut to ~8mm, as connector for np-f|
+
+Also some AB Glue for nuts and parts, Soldering tools, 
 
 ### V-mount backplane
 
